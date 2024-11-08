@@ -10,7 +10,7 @@ class IFrameWrapper extends reactToWebComponent(IFrame, React, ReactDOM, {
 }) { 
 
     static getMetaConfig = () => ({
-        controlName: "react-iframe",
+        controlName: "nadiajamhari-iframe",
         version: "1.3",
         description: "Iframe component which renders content from a source URL",
         iconUrl: "one-line-text",
