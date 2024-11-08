@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/plugin-example-two/static/js/main.fb061a72.js",
-    "index.html": "/plugin-example-two/index.html",
-    "main.fb061a72.js.map": "/plugin-example-two/static/js/main.fb061a72.js.map"
+    "main.js": "/plugin-example-2/static/js/main.fb061a72.js",
+    "index.html": "/plugin-example-2/index.html",
+    "main.fb061a72.js.map": "/plugin-example-2/static/js/main.fb061a72.js.map"
   },
   "entrypoints": [
     "static/js/main.fb061a72.js"
